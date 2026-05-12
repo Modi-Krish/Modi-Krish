@@ -75,7 +75,7 @@
 # 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/krishmodi311?theme=dark&font=Nunito&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/krish_modi_311?theme=dark&font=Nunito&ext=heatmap"/>
 </p>
 
 ---
