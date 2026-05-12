@@ -1,60 +1,115 @@
 <h1 align="center">Hi 👋, I'm Krish Modi</h1>
-<h3 align="center">B.Tech CSE Student | Python Developer | AI/ML Enthusiast | MERN Learner</h3>
+<h3 align="center">AI/ML Enthusiast | Full Stack Developer | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI%2FML+Enthusiast;Web+Developer;Hackathon+Winner;Open+Source+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Developer;Full+Stack+Developer;Python+Programmer;Hackathon+Enthusiast;Cloud+Learner&center=true&width=500&height=45">
 </p>
 
 ---
 
 # 🚀 Introduction
 
-🎓 I'm currently pursuing B.Tech in Computer Science & Engineering from Parul Institute of Technology, Vadodara.  
-💻 Passionate about Python, AI/ML, Web Development, and building real-world impactful projects.  
-🏆 1st Prize Winner at Ideathon & Scienti-X Base Science Project.  
-⚡ Love participating in Hackathons, Coding Contests, and Tech Events.  
-🌱 Currently learning MERN Stack, DSA, and Advanced Web Development.
+🎓 Computer Science Engineering Student specialized in AI/ML, LLMs, and Scalable Full Stack Systems.  
+💡 Passionate about building AI-powered applications and solving real-world problems using modern technologies.  
+⚡ Skilled in backend engineering, cloud computing, distributed systems, and responsive web development.  
+🏆 Hackathon Participant & Prize Winner.
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+## 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,mysql" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+## 🤖 AI/ML
+- DeepFace
+- LLM Concepts
+- Prompt Engineering
+
+## ⚙️ Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,opencv,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,django,nodejs,git,aws" />
 </p>
 
-### 🧰 Tools & Platforms
+## 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
+
+## 🔧 Other Tools
+- OpenCV
+- gspread
+- REST APIs
+- API Integration
 
 ---
 
 # 🌟 Featured Projects
 
-## 🔹 Face Recognition Attendance System
-- Built using Python, OpenCV, DeepFace & Google Sheets API.
-- Automatically detects faces and marks attendance.
-- Includes Hand Gesture Controller functionality.
+## 🧠 AI-Based Learning Monitor System
+- AI-powered learning platform with eye-tracking.
+- Automated study content generation.
+- Assessment features with parental monitoring.
 
-## 🔹 360° Rotating Solar Panel
-- Arduino-based smart solar tracking system.
-- Automatically rotates according to sunlight direction.
+---
 
-## 🔹 AI-Based Education Monitoring System
-- React + Django based AI learning platform.
-- Eye tracking for focus monitoring.
-- Parent notification & AI-generated study material.
+## 🎭 Face Recognition Attendance & Gesture Controller
+- Real-time attendance system using Python, OpenCV, and DeepFace.
+- Gesture-based interaction system integrated with face recognition.
 
-## 🔹 Government Document Verification Portal
-- Users upload documents for government verification.
-- Officers can approve/reject with status notifications.
+---
+
+## 🏛️ Civic Issues Reporting Portal
+- Full-stack platform for reporting and validating civic issues.
+- Admin workflow management system.
+
+---
+
+## 💼 Internship Cell Web Portal
+- Centralized internship management platform.
+- API-based data handling and user management system.
+
+---
+
+# 💻 Work Experience
+
+## Operational Intern & Web Developer  
+📍 Technical Events Cell, Parul University  
+🗓️ Nov 2025 – Mar 2026
+
+### Responsibilities
+- Designed and maintained full-stack event management applications.
+- Developed responsive user interfaces.
+- Worked on RESTful APIs and database management.
+- Automated workflows to optimize system performance.
+- Assisted in organizing technical events and hackathons.
+
+---
+
+# 🎓 Education
+
+🎓 B.Tech in Computer Science Engineering  
+🏫 Parul Institute of Technology  
+📊 CGPA: 7.36
+
+---
+
+# 🏆 Achievements
+
+🥇 First Prize – Ideathon  
+🥇 First Prize – Scienti-X Base Science Project  
+🏅 Ranked among Top 50 teams nationwide in Innovate Nation Hackathon (Gov. of Delhi)  
+🚀 Participated in 36-Hour AI/ML Hackathon
+
+---
+
+# 📜 Certifications
+
+☁️ AWS Academy Graduate – Cloud Foundations  
+🐍 Python Programming (Etrain)  
+🔐 Introduction to Cybersecurity – Cisco
 
 ---
 
@@ -75,7 +130,7 @@
 # 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/krish_modi_311?theme=dark&font=Nunito&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
 </p>
 
 ---
@@ -83,23 +138,23 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Modi-Krish&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🌐 Contact Links
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Modi-Krish">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com/in/modikrish0311">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:krishmody311@gmail.com">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -109,7 +164,7 @@
 # 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Modi-Krish&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -123,5 +178,5 @@
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/Modi-Krish">Krish Modi</a>
+  ⭐ From <a href="https://github.com/YOUR_USERNAME">Krish Modi</a>
 </p>
