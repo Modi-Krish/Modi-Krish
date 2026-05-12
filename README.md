@@ -94,31 +94,6 @@
 # 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-## 🔹 AI-Based Learning Monitor System
-### 📌 React.js | Django | AI Integration
-
-✔ Designed an AI-powered learning platform with eye-tracking.  
-✔ Implemented automated study content generation and assessment features.  
-✔ Added parent monitoring and focus tracking functionalities.  
-✔ Developed an interactive and user-friendly learning experience.
-
-</td>
-
-<td width="50%">
-
-## 🔹 Face Recognition Attendance & Gesture Controller
-### 📌 Python | OpenCV | DeepFace
-
-✔ Developed a real-time attendance system using facial recognition.  
-✔ Integrated gesture-based interaction using computer vision techniques.  
-✔ Automated attendance management with enhanced accuracy.  
-✔ Utilized Python, OpenCV, and DeepFace for implementation.
-
-</td>
-</tr>
 
 <tr>
 <td width="50%">
