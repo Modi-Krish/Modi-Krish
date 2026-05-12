@@ -75,7 +75,7 @@
 # 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/krishmodi311?theme=dark&font=Nunito&ext=heatmap"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Modi-Krish&theme=tokyo-night"/>
 </p>
 
 ---
