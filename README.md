@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=Modi-Krish&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Modi-Krish?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Modi-Krish?style=for-the-badge&color=yellow" />
 </p>
 
 ---
@@ -97,21 +97,25 @@
 <tr>
 <td width="50%">
 
-### 🔹 Face Recognition Attendance System
-- 📌 Python + OpenCV + DeepFace
-- 📌 Automated Attendance Tracking
-- 📌 Hand Gesture Controller
-- 📌 Google Sheets Integration
+## 🔹 AI-Based Learning Monitor System
+### 📌 React.js | Django | AI Integration
+
+✔ Designed an AI-powered learning platform with eye-tracking.  
+✔ Implemented automated study content generation and assessment features.  
+✔ Added parent monitoring and focus tracking functionalities.  
+✔ Developed an interactive and user-friendly learning experience.
 
 </td>
 
 <td width="50%">
 
-### 🔹 AI-Based Education Monitoring System
-- 📌 React + Django
-- 📌 Eye Tracking Monitoring
-- 📌 AI Generated Study Materials
-- 📌 Parent Notification System
+## 🔹 Face Recognition Attendance & Gesture Controller
+### 📌 Python | OpenCV | DeepFace
+
+✔ Developed a real-time attendance system using facial recognition.  
+✔ Integrated gesture-based interaction using computer vision techniques.  
+✔ Automated attendance management with enhanced accuracy.  
+✔ Utilized Python, OpenCV, and DeepFace for implementation.
 
 </td>
 </tr>
@@ -119,19 +123,51 @@
 <tr>
 <td width="50%">
 
-### 🔹 360° Rotating Solar Panel
-- 📌 Arduino-Based Smart Tracking
-- 📌 Sunlight Direction Detection
-- 📌 Energy Optimization
+## 🔹 Civic Issues Reporting Portal (Ongoing)
+### 📌 MERN Stack | API Integration
+
+✔ Developing a scalable full-stack civic issue reporting platform.  
+✔ Implementing admin workflows for issue validation and management.  
+✔ Enabling efficient reporting and tracking of civic problems.  
+✔ Focused on transparency and streamlined communication.
 
 </td>
 
 <td width="50%">
 
-### 🔹 Government Verification Portal
-- 📌 Document Upload & Verification
-- 📌 Approval/Rejection Workflow
-- 📌 Notification System
+## 🔹 Internship Cell Web Portal
+### 📌 Full Stack Development | APIs | Database Management
+
+✔ Engineered a centralized internship management platform.  
+✔ Integrated API-based data handling and user management systems.  
+✔ Simplified internship application and tracking workflows.  
+✔ Designed for scalability and efficient student coordination.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🔹 Travelloop
+### 📌 MERN Stack | Travel Platform | Authentication
+
+✔ Developed a travel-based web platform for trip exploration and management.  
+✔ Implemented secure authentication and user-friendly UI/UX.  
+✔ Added destination browsing and responsive travel dashboard features.  
+✔ Focused on smooth navigation and scalable backend architecture.
+
+</td>
+
+<td width="50%">
+
+## 🔹 Real-Time Productivity Management System
+### 📌 React.js | Node.js | Real-Time Tracking
+
+✔ Built a real-time productivity and task management platform.  
+✔ Implemented live tracking and activity monitoring functionalities.  
+✔ Added task scheduling, progress monitoring, and dashboard analytics.  
+✔ Designed to improve productivity and workflow management.
 
 </td>
 </tr>
