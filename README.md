@@ -18,32 +18,56 @@
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
+---
+
 ## 👨‍💻 Languages
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql" />
 </p>
 
-## 🤖 AI/ML
-- DeepFace
-- LLM Concepts
-- Prompt Engineering
+---
 
-## ⚙️ Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,django,nodejs,git,aws" />
+## 🤖 AI / ML
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DeepFace-FF6F61?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_Concepts-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-00C853?style=for-the-badge&logo=probot&logoColor=white"/>
 </p>
 
+---
+
+## ⚙️ Frameworks & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,django,nodejs,git,aws,vercel,vscode,postman" />
+</p>
+
+---
+
 ## 🗄️ Databases
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-## 🔧 Other Tools
-- OpenCV
-- gspread
-- REST APIs
-- API Integration
+---
 
+## 🔧 Other Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gspread-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Integration-FF9800?style=for-the-badge&logo=icloud&logoColor=white"/>
+</p>
+
+---
+
+</div>
 ---
 
 # 🌟 Featured Projects
